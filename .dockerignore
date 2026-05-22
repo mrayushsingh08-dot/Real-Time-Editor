@@ -1,0 +1,11 @@
+# Frontend — node_modules and build output (rebuilt inside Docker)
+Frontend/node_modules
+Frontend/dist
+Frontend/.env*
+
+# Backend — node_modules (reinstalled inside Docker)
+Backend/node_modules
+
+# Git and editor files
+.git
+.gitignore
