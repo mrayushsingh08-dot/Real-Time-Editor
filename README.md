@@ -8,7 +8,7 @@ Built using **React, Monaco Editor, Yjs, and Socket.IO**, and fully deployed on 
 
 ## 🌐 Live Demo
 
-👉 http://js-editor-rt-alb-1668504628.ap-northeast-1.elb.amazonaws.com/
+👉 https://real-time-editor-07mi.onrender.com
 
 ---
 
